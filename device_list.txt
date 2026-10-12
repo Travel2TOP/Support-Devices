@@ -1,0 +1,229 @@
+Officially Supported Devices by @kaitocache
+Codename: @Sukuna
+ROM Base: LineageOS / Matrixx (Android 14 & 15 QPR1 / QPR2 — Official & Unofficial)
+📱 Google Pixel
+| Device (Codename) | Chipset | AnTuTu Score |
+|---|---|---|
+| Pixel 9 Pro XL (komodo) | Tensor G4 | ~1.15M – 1.3M |
+| Pixel 9 Pro (caiman) | Tensor G4 | ~1.15M – 1.3M |
+| Pixel 9 Pro Fold (comet) | Tensor G4 | ~1.1M – 1.25M |
+| Pixel 9 (tokay) | Tensor G4 | ~1.1M – 1.25M |
+| Pixel 8 Pro (husky) | Tensor G3 | ~1.1M – 1.2M |
+| Pixel 8 (shiba) | Tensor G3 | ~1.05M – 1.15M |
+| Pixel 8a (akita) | Tensor G3 | ~1.0M – 1.15M |
+| Pixel 7 Pro (cheetah) | Tensor G2 | ~900K – 980K |
+| Pixel Fold (felix) | Tensor G2 | ~890K – 960K |
+| Pixel 7 (panther) | Tensor G2 | ~880K – 950K |
+| Pixel Tablet (tangorpro) | Tensor G2 | ~880K – 950K |
+| Pixel 7a (lynx) | Tensor G2 | ~850K – 920K |
+| Pixel 6 Pro (raven) | Tensor | ~750K – 800K |
+| Pixel 6 (oriole) | Tensor | ~730K – 780K |
+| Pixel 6a (bluejay) | Tensor | ~700K – 750K |
+| Pixel 5a 5G (barbet) | SD 765G | ~380K – 410K |
+| Pixel 5 (redfin) | SD 765G | ~370K – 400K |
+| Pixel 4a 5G (bramble) | SD 765G | ~360K – 390K |
+⚡ OnePlus
+| Device (Codename) | Chipset | AnTuTu Score |
+|---|---|---|
+| OnePlus 13 (dodge) | SD 8 Elite | ~3.0M – 3.15M |
+| OnePlus 12 (waffle) | SD 8 Gen 3 | ~2.1M – 2.4M |
+| OnePlus Pad 2 (caihong) | SD 8 Gen 3 | ~2.05M – 2.2M |
+| OnePlus 12R / Ace 3 (aston) | SD 8 Gen 2 | ~1.5M – 1.7M |
+| OnePlus 11 5G (salami) | SD 8 Gen 2 | ~1.5M – 1.65M |
+| OnePlus Nord 4 (avalon) | SD 7+ Gen 3 | ~1.4M – 1.45M |
+| OnePlus 11R / Ace 2 (ueric) | SD 8+ Gen 1 | ~1.1M – 1.15M |
+| OnePlus 10T / Ace Pro (oval) | SD 8+ Gen 1 | ~1.05M – 1.12M |
+| OnePlus Nord 3 5G (vitamin) | Dimensity 9000 | ~1.0M – 1.08M |
+| OnePlus Pad (marquise) | Dimensity 9000 | ~980K – 1.05M |
+| OnePlus 10 Pro (negroni) | SD 8 Gen 1 | ~950K – 1.02M |
+| OnePlus 9 Pro (lemonadep) | SD 888 | ~820K – 870K |
+| OnePlus 9RT (martini) | SD 888 | ~820K – 860K |
+| OnePlus 9 (lemonade) | SD 888 | ~800K – 850K |
+| OnePlus Nord CE4 (benz) | SD 7 Gen 3 | ~800K – 830K |
+| OnePlus 9R (lemonades) | SD 870 | ~700K – 740K |
+| OnePlus Nord 2T (karen) | Dimensity 1300 | ~680K – 720K |
+| OnePlus 8 Pro (instantnoodlep) | SD 865 | ~650K – 690K |
+| OnePlus 8T (kebab) | SD 865 | ~650K – 680K |
+| OnePlus 8 (instantnoodle) | SD 865 | ~640K – 670K |
+| OnePlus Nord CE 3 5G (zorn/zuma) | SD 782G | ~650K – 670K |
+| OnePlus 7T Pro (hotdog) | SD 855+ | ~520K – 560K |
+| OnePlus 7T (hotdogb) | SD 855+ | ~520K – 550K |
+| OnePlus 7 Pro (guacamole) | SD 855 | ~490K – 530K |
+| OnePlus 7 (guacamoleb) | SD 855 | ~480K – 520K |
+| OnePlus Nord CE4 Lite (tate) | SD 695 | ~450K – 470K |
+| OnePlus Nord CE 3 Lite 5G (larry) | SD 695 | ~410K – 440K |
+| OnePlus 6T (fajita) | SD 845 | ~380K – 420K |
+| OnePlus Nord (avicii) | SD 765G | ~380K – 410K |
+| OnePlus 6 (enchilada) | SD 845 | ~370K – 410K |
+🔴 Xiaomi / POCO / Redmi
+| Device (Codename) | Chipset | AnTuTu Score |
+|---|---|---|
+| POCO F7 Pro (zorn) | SD 8 Gen 3 | ~2.1M – 2.3M |
+| Xiaomi 14 / 14 Pro (houji / shennong) | SD 8 Gen 3 | ~1.95M – 2.15M |
+| POCO F6 Pro / Redmi K70 (vermeer) | SD 8 Gen 2 | ~1.55M – 1.65M |
+| Xiaomi 13 / 13 Pro / 13 Ultra (fuxi/nuwa/ishtar) | SD 8 Gen 2 | ~1.5M – 1.6M |
+| POCO F6 / Redmi Turbo 3 (peridot) | SD 8s Gen 3 | ~1.45M – 1.55M |
+| Xiaomi 13T Pro (corot) | Dimensity 9200+ | ~1.45M – 1.55M |
+| POCO X6 Pro (duchamp) | Dimensity 8300-Ultra | ~1.35M – 1.45M |
+| POCO F5 Pro / Redmi K60 (mondrian) | SD 8+ Gen 1 | ~1.25M – 1.35M |
+| Xiaomi 12T Pro / Redmi K50 Ultra (diting) | SD 8+ Gen 1 | ~1.25M – 1.35M |
+| POCO F5 / Redmi Note 12 Turbo (marble) | SD 7+ Gen 2 | ~1.1M – 1.15M |
+| POCO F4 GT / Redmi K50 Gaming (ingres) | SD 8 Gen 1 | ~980K – 1.05M |
+| Xiaomi 12 / 12 Pro (cupid / zeus) | SD 8 Gen 1 | ~960K – 1.02M |
+| Xiaomi 13T (aristotle) | Dimensity 8200-U | ~880K – 920K |
+| POCO X4 GT / Redmi K50i (xaga) | Dimensity 8100 | ~880K – 930K |
+| Mi 11i / Mi 11X Pro (haydn) | SD 888 | ~810K – 860K |
+| Mi 11 / Mi 11 Pro / Mi 11 Ultra (venus/mars/star) | SD 888 | ~800K – 850K |
+| POCO F4 / Redmi K40S (munch) | SD 870 | ~790K – 830K |
+| POCO F3 / Mi 11X / Redmi K40 (alioth) | SD 870 | ~780K – 820K |
+| Xiaomi Pad 6 (pipa) | SD 870 | ~780K – 820K |
+| Redmi Note 13 Pro+ 5G (zircon) | Dimensity 7200-Ultra | ~770K – 800K |
+| Mi 10T / 10T Pro / Redmi K30S Ultra (apollo) | SD 865 | ~680K – 730K |
+| POCO F2 Pro / Redmi K30 Pro (lmi) | SD 865 | ~670K – 720K |
+| Mi 10 / Mi 10 Pro / Mi 10 Ultra (umi/cmi/cas) | SD 865 | ~670K – 720K |
+| POCO X6 5G / Note 13 Pro 5G (garnet) | SD 7s Gen 2 | ~580K – 620K |
+| POCO X5 Pro 5G (redwood) | SD 778G | ~590K – 620K |
+| Mi 11 Lite 5G / NE (renoir / lisa) | SD 780G / SD 778G | ~580K – 600K |
+| POCO X3 Pro (vayu / bhima) | SD 860 | ~580K – 620K |
+| Xiaomi Pad 5 (nabu) | SD 860 | ~570K – 610K |
+| Redmi Note 12 Pro / Pro+ 5G (ruby) | Dimensity 1080 | ~520K – 560K |
+| Mi 9 / Mi 9T Pro (cepheus / raphael) | SD 855 | ~500K – 540K |
+| Redmi Note 11 Pro+ 5G (peux) | Dimensity 920 | ~480K – 510K |
+| POCO M6 Pro 5G / Redmi 12 5G (sky) | SD 4 Gen 2 | ~420K – 450K |
+| POCO X5 5G (stone) | SD 695 | ~420K – 450K |
+| POCO X4 Pro 5G (veux) | SD 695 | ~410K – 440K |
+| POCO M5s (rosemary) | Helio G95 | ~410K – 440K |
+| Redmi Note 13 5G (gold) | Dimensity 6080 | ~410K – 440K |
+| Redmi Note 12 5G (sunstone) | SD 4 Gen 1 | ~400K – 430K |
+| POCO M4 Pro 5G (evergreen) | Dimensity 810 | ~390K – 420K |
+| POCO F1 (beryllium) | SD 845 | ~380K – 410K |
+| Redmi Note 9T (cannong) | Dimensity 800U | ~370K – 400K |
+| Redmi Note 11 Pro 4G (viva) | Helio G96 | ~370K – 400K |
+| Redmi Note 10S (rosemary) | Helio G95 | ~370K – 400K |
+| Redmi Note 10 Pro / Max (sweet/sweetin) | SD 732G | ~350K – 380K |
+| POCO X3 / X3 NFC (surya / karna) | SD 732G | ~350K – 380K |
+| Redmi Note 8 Pro (begonia) | Helio G90T | ~340K – 370K |
+| Redmi Note 13 4G (sapphire) | SD 685 | ~330K – 360K |
+| Mi 11 Lite 4G (courbet) | SD 732G | ~330K – 360K |
+| POCO X2 / Redmi K30 (phoenix) | SD 730G | ~330K – 360K |
+| Redmi Note 12 4G (topaz) | SD 685 | ~320K – 350K |
+| POCO M2 Pro / Note 9 Pro (miatoll) | SD 720G | ~320K – 350K |
+| Redmi Note 9S / Pro / Max (curtana/joyeuse) | SD 720G | ~320K – 350K |
+| Redmi Note 11 (spes / spesn) | SD 680 | ~290K – 320K |
+| Redmi 10C (fog) | SD 680 | ~270K – 300K |
+| Redmi Note 10 4G (sunny) | SD 678 | ~270K – 300K |
+| Redmi 12 4G (fire) | Helio G88 | ~250K – 280K |
+| Redmi 12C (earth) | Helio G85 | ~230K – 260K |
+| Redmi Note 7 Pro (violet) | SD 675 | ~220K – 250K |
+| Redmi Note 9 4G / 9T NFC (lime) | SD 662 | ~220K – 250K |
+| Redmi Note 8 / 8T (ginkgo / willow) | SD 665 | ~210K – 240K |
+| Redmi Note 7 (lavender) | SD 660 | ~180K – 210K |
+| Redmi Note 5 / 5 Pro (whyred) | SD 636 | ~140K – 160K |
+🪐 Motorola
+| Device (Codename) | Chipset | AnTuTu Score |
+|---|---|---|
+| Moto Edge 50 Ultra (eqs2) | SD 8s Gen 3 | ~1.75M – 1.85M |
+| Moto Edge 40 Pro / Edge+ 2023 (rtwo) | SD 8 Gen 2 | ~1.5M – 1.6M |
+| Moto Edge 30 Ultra (eqs) | SD 8+ Gen 1 | ~1.05M – 1.15M |
+| ThinkPhone by Motorola (bronco) | SD 8+ Gen 1 | ~1.05M – 1.12M |
+| Moto Edge 30 Pro / Edge+ 2022 (hiphi) | SD 8 Gen 1 | ~960K – 1.02M |
+| Moto Edge 30 Fusion (tundra) | SD 888+ | ~840K – 880K |
+| Moto Edge 50 Pro (macan) | SD 7 Gen 3 | ~820K – 860K |
+| Moto Edge 40 (coronap) | Dimensity 8020 | ~750K – 780K |
+| Moto Edge 20 Pro (pstar) | SD 870 | ~700K – 740K |
+| Moto Edge 50 Fusion (cusco) | SD 7s Gen 2 / 6 Gen 1 | ~560K – 620K |
+| Moto G Stylus 5G 2024 (gent) | SD 6 Gen 1 | ~560K – 590K |
+| Moto Edge 30 (dubai) | SD 778G+ | ~540K – 580K |
+| Moto G Stylus 5G 2023 (genevn) | SD 6 Gen 1 | ~550K – 580K |
+| Moto Edge 40 Neo (manaus) | Dimensity 7030 | ~530K – 560K |
+| Moto Edge 20 (kyoto) | SD 778G | ~520K – 550K |
+| Moto G64 5G / G54 5G (cancunf) | Dimensity 7025 / 7020 | ~480K – 520K |
+| Moto G45 5G / G34 5G (fogos) | SD 6s Gen 3 / SD 695 | ~430K – 460K |
+| Moto G73 5G (devonk) | Dimensity 930 | ~430K – 460K |
+| Moto G84 5G (bangkk) | SD 695 | ~420K – 450K |
+| Moto G82 5G (rhodep) | SD 695 | ~400K – 430K |
+| Moto Edge 30 Neo (miami) | SD 695 | ~400K – 430K |
+| Moto G52 (rhode) | SD 680 | ~280K – 310K |
+| Moto G32 (devon) | SD 680 | ~280K – 310K |
+🌌 Samsung
+| Device (Codename) | Chipset | AnTuTu Score |
+|---|---|---|
+| Galaxy S24 Ultra (e3q) | SD 8 Gen 3 | ~1.95M – 2.1M |
+| Galaxy S24 / S24+ (e1q / e2q) | Exynos 2400 / SD 8 Gen 3 | ~1.75M – 2.05M |
+| Galaxy S23 / S23+ / S23 Ultra (dm1q/dm2q/dm3q) | SD 8 Gen 2 | ~1.45M – 1.55M |
+| Galaxy Tab S8 / S8+ / S8 Ultra (gts8/gts8p/gts8u) | SD 8 Gen 1 | ~1.0M – 1.05M |
+| Galaxy S22 / S22+ / S22 Ultra (r0s/g0s/b0s) | SD 8 Gen 1 / Exynos 2200 | ~950K – 1.05M |
+| Galaxy S21 FE 5G (r9q) | SD 888 / Exynos 2100 | ~750K – 800K |
+| Galaxy S21 / S21+ / S21 Ultra (o1s/t2s/p3s) | Exynos 2100 / SD 888 | ~750K – 800K |
+| Galaxy Tab S7 / S7+ (gts7xl / gts7xlwifi) | SD 865+ | ~650K – 680K |
+| Galaxy S20 FE 5G / 4G (r8q) | SD 865 / Exynos 990 | ~640K – 680K |
+| Galaxy Note 20 / Ultra (c1s / c2s) | Exynos 990 / SD 865+ | ~580K – 640K |
+| Galaxy S20 / S20+ / Ultra (x1s/y2s/z3s) | Exynos 990 / SD 865 | ~600K – 650K |
+| Galaxy A54 5G (a54x) | Exynos 1380 | ~570K – 600K |
+| Galaxy A34 5G (a34x) | Dimensity 1080 | ~530K – 560K |
+| Galaxy A73 5G (a73xq) | SD 778G | ~520K – 550K |
+| Galaxy M52 5G (m52xq) | SD 778G | ~520K – 550K |
+| Galaxy A52s 5G (a52sxq) | SD 778G | ~510K – 540K |
+| Galaxy Note 10 / Note 10+ (d1 / d2s) | Exynos 9825 / SD 855 | ~450K – 480K |
+| Galaxy S10e / S10 / S10+ (beyond0lte/1lte/2lte) | Exynos 9820 / SD 855 | ~440K – 470K |
+| Galaxy F62 / M62 (m62) | Exynos 9825 | ~430K – 460K |
+| Galaxy A53 5G (a53x) | Exynos 1280 | ~400K – 430K |
+| Galaxy A52 4G (a52q) | SD 720G | ~340K – 370K |
+| Galaxy Tab S6 Lite (gta4xl / gta4xlswifi) | Exynos 9611 / SD 720G/732G | ~240K – 350K |
+| Galaxy M30s (m30s) | Exynos 9611 | ~200K – 230K |
+⚪ Nothing & CMF
+| Device (Codename) | Chipset | AnTuTu Score |
+|---|---|---|
+| Nothing Phone (2) (Pong) | SD 8+ Gen 1 | ~1.15M – 1.25M |
+| Nothing Phone (2a) Plus (PacmanPro) | Dimensity 7350 Pro | ~780K – 810K |
+| Nothing Phone (2a) (Pacman) | Dimensity 7200 Pro | ~700K – 730K |
+| CMF Phone 1 (Tetris) | Dimensity 7300 | ~660K – 700K |
+| Nothing Phone (1) (Spacewar) | SD 778G+ | ~580K – 610K |
+🟡 Realme & OPPO
+| Device (Codename) | Chipset | AnTuTu Score |
+|---|---|---|
+| Realme GT Neo 6 (bale) | SD 8s Gen 3 | ~1.5M – 1.6M |
+| Realme GT 6 (monet) | SD 8s Gen 3 | ~1.5M – 1.6M |
+| Realme GT 6T (fili) | SD 7+ Gen 3 | ~1.4M – 1.5M |
+| Realme GT Neo 5 (aloha) | SD 8+ Gen 1 | ~1.3M – 1.4M |
+| Realme GT 2 Pro (ferrari) | SD 8 Gen 1 | ~960K – 1.0M |
+| Realme GT 2 (senna) | SD 888 | ~820K – 860K |
+| Realme GT Neo 3 (xun) | Dimensity 8100 | ~810K – 840K |
+| Realme GT Neo 3T (sprout) | SD 870 | ~720K – 750K |
+| Realme 12 Pro+ 5G (victor) | SD 7s Gen 2 | ~580K – 620K |
+| Realme 11 Pro / 11 Pro+ (corfu) | Dimensity 7050 | ~540K – 570K |
+| Realme GT Master Edition (luna) | SD 778G | ~520K – 550K |
+| Realme X2 Pro (rmx1931) | SD 855+ | ~500K – 530K |
+| Realme 10 Pro+ (salina) | Dimensity 1080 | ~500K – 530K |
+| Realme 9 Pro+ (chopin) | Dimensity 920 | ~480K – 510K |
+| Realme 10 Pro 5G (luigi) | SD 695 | ~410K – 440K |
+| Realme 9 Pro 5G (oscar) | SD 695 | ~400K – 430K |
+| Realme 8 / 8 Pro (nash / salvador) | Helio G95 / SD 720G | ~350K – 380K |
+| Realme 7 Pro / 6 Pro (sunstone / lightning) | SD 720G | ~330K – 360K |
+🎮 ASUS ROG & Zenfone
+| Device (Codename) | Chipset | AnTuTu Score |
+|---|---|---|
+| ROG Phone 8 / 8 Pro (ASUS_AI2401) | SD 8 Gen 3 | ~2.15M – 2.25M |
+| Zenfone 11 Ultra (ASUS_AI2401_D) | SD 8 Gen 3 | ~2.1M – 2.2M |
+| ROG Phone 7 / 7 Ultimate (ASUS_AI2301) | SD 8 Gen 2 | ~1.58M – 1.68M |
+| Zenfone 10 (ASUS_AI2302) | SD 8 Gen 2 | ~1.45M – 1.55M |
+| ROG Phone 6 / 6 Pro (ASUS_AI2201) | SD 8+ Gen 1 | ~1.25M – 1.35M |
+| Zenfone 9 (ASUS_AI2202) | SD 8+ Gen 1 | ~1.05M – 1.1M |
+| ROG Phone 5 / 5s (ASUS_I005D) | SD 888 / SD 888+ | ~850K – 900K |
+| Zenfone 8 (ASUS_I006D) | SD 888 | ~800K – 840K |
+| ROG Phone 3 (ASUS_I003D) | SD 865+ | ~670K – 700K |
+📷 Sony Xperia
+| Device (Codename) | Chipset | AnTuTu Score |
+|---|---|---|
+| Xperia 1 VI / 5 VI (pdx245 / pdx247) | SD 8 Gen 3 | ~1.85M – 1.95M |
+| Xperia 1 V / 5 V (pdx234 / pdx237) | SD 8 Gen 2 | ~1.45M – 1.55M |
+| Xperia 1 IV / 5 IV (pdx223 / pdx224) | SD 8 Gen 1 | ~900K – 980K |
+| Xperia 1 III / 5 III / Pro-I (pdx215/pdx214/pdx217) | SD 888 | ~750K – 800K |
+| Xperia 10 V / 10 IV (pdx235 / pdx225) | SD 695 | ~400K – 430K |
+🌿 Fairphone & SHIFT
+| Device (Codename) | Chipset | AnTuTu Score |
+|---|---|---|
+| Fairphone 5 (FP5) | QCM6490 (≈ SD 778G) | ~500K – 530K |
+| Fairphone 4 (FP4) | SD 750G | ~380K – 410K |
+Build Info: Use /matrixx <codename> to pull target builds.
+Custom / Port Requests: Contact [@kaitocache] for unsupported chipsets or private tree requests.
